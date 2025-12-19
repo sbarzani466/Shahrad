@@ -6,7 +6,7 @@ package com.mycompany.updated_version;
 
 /**
  *
- * @author danial
+ * @author Shahrad
  */
 public class Updated_version {
 
