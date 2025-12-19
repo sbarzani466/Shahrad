@@ -6,7 +6,7 @@ package com.mycompany.initial_version;
 
 /**
  *
- * @author danial
+ * @author shahrad
  */
 public class Initial_version {
 
